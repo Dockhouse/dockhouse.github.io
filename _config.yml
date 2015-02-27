@@ -15,7 +15,7 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "Dockhouse - Simple Jekyll template"
+title:       "Dockhouse - Manage your private registies and projects"
 keywords:    "Dockhouse, docker, registry, container, devops, repository"
 description: "Manage your private registry and projects, for Docker and others ..."
 source_link: "https://github.com/Dockhouse/dockhouse.github.io"
